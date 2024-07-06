@@ -7,7 +7,7 @@ other studies that often generalize their findings to a global or regional conte
 Jamaica. Findings point to a significant and negative relationship between corruption and economic growth, indicating that higher levels of corruption are associated
 with lower economic growth rates. A one-unit increase in the corruption index corresponds to a contemporaneous decrease in economic growth by 2.9% in the ARDL
 model. In the DARDL model, we observed that a 1 standard deviation shock to the corruption variable leads to a decrease of 68% in the lagged period in economic
-growth. The findings suggest that reducing corruption could lead to improvements in economic performance. Jamaica's government could direct more funding towards
+growth. The findings suggest that reducing corruption could lead to improvements in economic performance. Jamaica's government could direct more funding towards
 anti-corruption agencies to alleviate corruption, over extra protection for whistleblowers, and conduct corruption awareness campaigns.
 
 ![EconGrowthCorrup](https://github.com/DalJoshThomas/EconGrowthCorr/blob/main/EconCorrupGrow.png)
