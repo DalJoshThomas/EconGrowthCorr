@@ -3,8 +3,8 @@
 into the relationship between corruption and economic growth in Jamaica for the time period 1990 to 2017. Through the use of a Autoregressive Distributed Lag
 (ARDL) and the Dynamic Autoregressive Distributed Lag (DARDL) model with an error correction component, we were able to capture both the short-term and
 long-term impacts of corruption on economic growth, which provides a more comprehensive understanding of the dynamic relationship between these variables. Unlike
-other studies that often generalize their findings to a global or regional context, our research is uniquely tailored to the socio-economic and political nuances of
-Jamaica. Findings point to a significant and negative relationship between corruption and economic growth, indicating that higher levels of corruption are associated
+other studies that often generalize their findings to a global or regional context, our research is uniquely tailored to the socio-economic and political nuances of
+Jamaica. Findings point to a significant and negative relationship between corruption and economic growth, indicating that higher levels of corruption are associated
 with lower economic growth rates. A one-unit increase in the corruption index corresponds to a contemporaneous decrease in economic growth by 2.9% in the ARDL
 model. In the DARDL model, we observed that a 1 standard deviation shock to the corruption variable leads to a decrease of 68% in the lagged period in economic
 growth. The findings suggest that reducing corruption could lead to improvements in economic performance. Jamaica's government could direct more funding towards
